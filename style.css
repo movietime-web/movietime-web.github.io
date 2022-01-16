@@ -95,6 +95,7 @@ h1,p{
     border-radius: 50px;
     outline: none;
     font-style: italic;
+    border: none;
 }
 .movies{
     display: flex;
@@ -166,13 +167,14 @@ h1,p{
     font-size: 1em;
     outline: none;
     border-radius: 5px;
+    border: none;
 }
 .submit{
     text-align: center;
     font-size: 1.2em;
     background-color: red;
     padding: .5em 1em;
-    border-radius: 2px;
+    border-radius: 4px;
     margin: .3em;
     color: #fff;
     font-weight: 600;
